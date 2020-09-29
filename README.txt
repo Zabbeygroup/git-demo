@@ -2,6 +2,6 @@
 
 This is the first in the repo
 
-##Version 1 of this text file
+##Website content
 
-##Version 2 has been added
+1. index.html
